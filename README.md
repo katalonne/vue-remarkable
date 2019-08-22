@@ -42,7 +42,9 @@ export default {
 ###### h6 Heading
 `}}
 </vue-remarkable>
+
 <!-- or -->
+
 <vue-remarkable :source="`
 # Vue is awesome 
 # h1 Heading
